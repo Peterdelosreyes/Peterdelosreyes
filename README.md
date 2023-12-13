@@ -1,5 +1,5 @@
 # Hello, I'm Peter John E. delos Reyes! 👋
-
+![22-12149-372](https://github.com/Peterdelosreyes/Peterdelosreyes/assets/153719823/417862ce-7809-4df6-87ca-71953afa53b9)
 ## About Me
 
 I am Peter John E. delos Reyes, a passionate coder with expertise in database management. I enjoy diving into complex problems and crafting elegant solutions. My tech journey began when I embarked on the BS Information Technology program, and I've been on an exciting learning and coding adventure ever since.
